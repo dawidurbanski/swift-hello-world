@@ -6,8 +6,28 @@
 	<dict>
 		<key>FoodTracker.xcscheme_^#shared#^_</key>
 		<dict>
+			<key>isShown</key>
+			<true/>
 			<key>orderHint</key>
 			<integer>0</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>6FC1DEA625D6AD0700186D0F</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>6FC1DEBA25D6AD0900186D0F</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>6FC1DEC525D6AD0900186D0F</key>
+		<dict>
+			<key>primary</key>
+			<true/>
 		</dict>
 	</dict>
 </dict>
